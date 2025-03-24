@@ -1,0 +1,8 @@
+uuid: ec2a15b6-10d1-44cf-8011-2ac44e3f0daf
+langcode: en
+status: true
+dependencies: {  }
+id: media_content
+label: 'Media Content'
+revision: false
+description: null
