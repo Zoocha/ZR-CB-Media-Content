@@ -2,10 +2,12 @@ uuid: cbe3eff5-1381-48cf-a655-815adcffeee6
 langcode: en
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: P58DFFu5XNMxRAkMOARTq_MsbwqLoQrtYHQdjVauTaA
 id: media_content
 block_id: 'inline_block:media_content'
 category: zoocha_components
 label: 'Media Content'
+weight: null
 image_path: ''
 image_alt: ''
-weight: null

@@ -7,6 +7,8 @@ dependencies:
     - field.storage.block_content.field_media
     - media.type.image
     - media.type.video
+_core:
+  default_config_hash: vNTGMDxDs6rY3lVbKxE4Db0IpDJdQWfi25TxjZFZHKY
 id: block_content.media_content.field_media
 field_name: field_media
 entity_type: block_content

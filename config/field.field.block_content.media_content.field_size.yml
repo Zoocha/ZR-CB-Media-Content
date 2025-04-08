@@ -1,0 +1,21 @@
+uuid: 8c63bd7c-e59c-440f-a2ed-1ad88c72c882
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.media_content
+    - field.storage.block_content.field_size
+  module:
+    - options
+id: block_content.media_content.field_size
+field_name: field_size
+entity_type: block_content
+bundle: media_content
+label: Size
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: list_string
